@@ -1,19 +1,13 @@
-# Mobil Geliştirme - KOAH Egzersiz Projesi
+# KOAH Egzersiz Uygulaması - Proje Teslimi
 
-Bu uygulama, KOAH hastaları için bilgilendirme ve egzersiz takibi sağlamak amacıyla React Native (Expo) kullanılarak geliştirilmiştir.
+⚠️ **ÖNEMLİ NOT:** Teknik aksaklık nedeniyle projenin tam dosya ağacı yerine, çalışan prototip linki ve ana kaynak kodlar paylaşılmıştır.
 
-## Canlı Demo (Preview)
-Uygulamanın arayüzüne aşağıdaki linkten ulaşabilirsiniz:
+## Canlı Demo ve Önizleme
+Uygulamanın tam çalışan haline buradan ulaşabilirsiniz:
 🔗 [KOAH Egzersiz Mobil UI](https://koah-egzersiz-mobil-ui.rork.app)
 
-## Kullanılan Teknolojiler
-- React Native / Expo
-- Tailwind CSS (NativeWind)
-- React Navigation
-- Lucide Icons
+## Proje Detayları
+- **İlham Kaynağı:** Verilen pano görsellerindeki yeşil tema ve KOAH egzersiz akışı birebir kurgulanmıştır.
+- **Teknolojiler:** React Native, Expo, Tailwind CSS.
+- **Ekranlar:** Bilgilendirme Formu, Egzersiz Detay, Karşılama Modalı ve Admin Paneli.
 
-## Özellikler
-- Bilgilendirme ve Gönüllü Onam Formu
-- Günlük Nefes Egzersizi Detay Sayfası
-- Kullanıcı Karşılama Modalı
-- Yönetici Kontrol Paneli (İstatistik Kartları)
