@@ -1,6 +1,6 @@
 # KOAH Egzersiz Uygulaması - Proje Teslimi
 
-⚠️ **ÖNEMLİ NOT:** Teknik aksaklık nedeniyle projenin tam dosya ağacı yerine, çalışan prototip linki ve ana kaynak kodlar paylaşılmıştır.
+⚠️ **ÖNEMLİ NOT:** Teknik aksaklık nedeniyle projenin tam dosya ağacı yerine, çalışan prototip linki paylaşılmıltır.
 
 ## Canlı Demo ve Önizleme
 Uygulamanın tam çalışan haline buradan ulaşabilirsiniz:
